@@ -1,0 +1,3 @@
+AnimalID	Comets_more_than_1SD	Median_Tail_Intensity_more_than_1SD	Comets_more_than_2SD	Median_Tail_Intensity_more_than_2SD
+7	320	0.110736579426504	256	0.182540825410076
+8	540	0.246610477777011	436	0.383233256404702

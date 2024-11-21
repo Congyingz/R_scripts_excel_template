@@ -1,0 +1,3 @@
+AnimalID	Mean_Total_Intensity_peak1	Comets_within_1SD	Median_Tail_Intensity_within_1SD	Comets_within_2SD	Median_Tail_Intensity_within_2SD
+7	76139.1708672842	166	0.0930962304492751	230	0.0719045645285912
+8	88268.843683974	280	0.0402953430661146	384	0.0392571350325439

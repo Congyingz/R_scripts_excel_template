@@ -1,0 +1,3 @@
+AnimalID	CometCount	MedianTailIntensity
+7	231	0.390756688835085
+8	445	0.471375553534321
